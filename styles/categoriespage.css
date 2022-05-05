@@ -1,0 +1,11 @@
+.container{
+    width: 50%;
+    height: 35rem;
+    background-color: wheat;
+    margin: auto;
+    font-size: 2rem;
+}
+
+.cat{
+    font-size: 1.7rem;
+}

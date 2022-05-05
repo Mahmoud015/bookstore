@@ -1,0 +1,18 @@
+.container{
+    height: calc(100vh - 59px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    margin-top: 4rem;
+}
+
+#submit{
+    margin-top: 4rem;
+}
+
+p{
+    color: gray;
+}

@@ -1,0 +1,28 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    background-color: white;
+    border-spacing: 0;
+    width: 50rem;
+}
+
+tr:nth-child(even){
+    background-color: rgb(148, 144, 144);
+}
+th{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    width: 10rem; 
+    height: 2rem;
+}
+
+tr{
+    text-align: center;
+    height: 5rem;
+}

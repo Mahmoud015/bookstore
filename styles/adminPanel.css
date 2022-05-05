@@ -1,0 +1,22 @@
+.container{
+    width: 100vw;
+    height: 90.5vh;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.admin{
+    background-color: white;
+    width: 30%;
+    height: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    font-weight: bold;
+    background-color: #9bde7e;
+    color: #2F4858;
+    text-decoration: none;
+}
